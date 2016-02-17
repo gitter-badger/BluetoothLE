@@ -2,6 +2,8 @@ Bluetooth LE Cordova Plugin
 
 ====================
 
+[![Join the chat at https://gitter.im/laurence-liu/BluetoothLE](https://badges.gitter.im/laurence-liu/BluetoothLE.svg)](https://gitter.im/laurence-liu/BluetoothLE?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 ## Supported platforms ##
 
 * Cordova 3.0.0 or higher
